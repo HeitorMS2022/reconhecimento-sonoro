@@ -1,0 +1,21 @@
+body{
+    background-image: linear-gradient(chocolate, yellow, cyan);
+}
+button{
+    font-size: 20px;
+}
+.imagens{
+    width: 350px;
+    height: 300px;
+}
+#h1{
+    font-size: 50px;
+    text-shadow: 0 0 0.2em #8f7;
+    font-family: 'Dancing Script', cursive;
+}
+#desenvolvido{
+    font-size: 30px;
+    text-shadow: 0 0 0.2em rgb(255, 255, 0);
+    font-family: 'Dancing Script', cursive;
+    background-color: white;
+}
